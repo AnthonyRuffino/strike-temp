@@ -1,0 +1,23 @@
+{
+  "name": "strike-temp",
+  "version": "1.0.0",
+  "description": "JavaScript module for calculating the strike temp of beer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnthonyRuffino/strike-temp.git"
+  },
+  "keywords": [
+    "beer",
+    "strike-temp"
+  ],
+  "author": "Anthony Ruffino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnthonyRuffino/strike-temp/issues"
+  },
+  "homepage": "https://github.com/AnthonyRuffino/strike-temp#readme"
+}
